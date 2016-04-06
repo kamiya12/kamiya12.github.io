@@ -1,0 +1,18 @@
+a:visited {
+    color: #00B6AE;
+}
+
+a:hover {
+    text-decoration: none;
+    color: red;
+}
+
+p a:hover {
+    color: blue;
+}
+
+li,
+p {
+    font-size: 12px;
+    line-height: 1.8;
+}
