@@ -1,0 +1,27 @@
+div{
+	border:1px #ccc solid;
+	border-radius:10px;
+background-color:#46A3FF;
+margin:20px;
+padding:20px;
+box-shadow:2px 2px 4px 2px rgba(0, 0, 0, 0.2);
+}
+div.left{
+	width:20%;
+	float:left;
+}
+div.middle{
+	width:400px;
+	float:left;
+	
+}
+div.right{
+	width:400px;
+	float:right;
+	
+}
+.clearfix{overflow:auto;_height:1%}
+
+
+
+
